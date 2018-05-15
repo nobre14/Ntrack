@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">N-Track</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Usuário</string>
+    <string name="nav_header_subtitle">usuario@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Itens do drawerLayout-->
+    <string name="cadastrar_moto_menu">Cadastrar Moto</string>
+    <string name="treinos_menu">Treinos</string>
+    <string name="cronometragem_menu">Cronometragem</string>
+    <string name="configuracoes_menu">Configurações</string>
+    <string name="lista_motos_menu">Lista de Motos</string>
+    <string name="sair_menu">Sair</string>
+
+
+    <!--motocicleta -->
+    <string name="titulo_cadastro_moto">Cadastrar Motocicleta</string>
+    <string name="input_modelo_moto">Modelo</string>
+    <string name="spinner_marca_moto">Marca</string>
+    <string name="input_ano_moto">Ano</string>
+    <string name="input_cilindrada_moto">Cilindrada</string>
+    <string name="title_activity_formulario_cadastro_moto">Cadastrar Moto</string>
+    <string name="title_activity_lista_moto">Lista de Motocicletas</string>
+
+    <!--Detalhe Moto -->
+    <string name="titulo_detalhe_moto">Detalhes da Motocicleta</string>
+    <string name="lbl_modelo">Modelo:</string>
+    <string name="lbl_marca">Marca:</string>
+    <string name="lbl_ano">Ano:</string>
+    <string name="lbl_cilindrada">Cilindrada:</string>
+
+</resources>

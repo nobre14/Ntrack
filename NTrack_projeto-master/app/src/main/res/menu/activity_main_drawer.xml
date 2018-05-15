@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/cadastrar_moto_menu"
+            android:icon="@drawable/ic_motorcycle_black_24dp"
+            android:title="@string/cadastrar_moto_menu" />
+        <item
+            android:id="@+id/lista_moto"
+            android:icon="@drawable/ic_list_black_24dp"
+            android:title="@string/lista_motos_menu" />
+        <item
+            android:id="@+id/treinos_menu"
+            android:icon="@drawable/ic_local_library_black_24dp"
+            android:title="@string/treinos_menu" />
+        <item
+            android:id="@+id/cronometragem_menu"
+            android:icon="@drawable/ic_timer_black_24dp"
+            android:title="@string/cronometragem_menu" />
+        <item
+            android:id="@+id/configuracoes_menu"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/configuracoes_menu" />
+        <item
+            android:id="@+id/sair_menu"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"
+            android:title="@string/sair_menu" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
